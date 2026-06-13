@@ -19,6 +19,12 @@ Executar os notebooks na seguinte ordem:
 
 3_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb
 
+
+Os notebooks estão disponíveis em:
+
+https://github.com/osmarbraz/sri
+
+
 Requirements
 
 pandas numpy spacy matplotlib jupyter
